@@ -16,3 +16,5 @@ Bienvenue dans ce cours structuré pour préparer les contrôles de Première sp
 ## Chapitres
 
 - [Fonctions polynômes du second degré : définition et forme canonique](second-degre/01-definition-forme-canonique.md)
+- [Équation du second degré : discriminant, solutions, factorisation](second-degre/02-equation-discriminant.md)
+- [Signe d'un trinôme et inéquations du second degré](second-degre/03-signe-et-inequations.md)
