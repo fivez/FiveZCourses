@@ -4,9 +4,9 @@ site_description: Cours et ressources pédagogiques de Première générale
 site_author: David
 
 # Remplacer par l'URL réelle après création du repository
-site_url: https://TON_COMPTE.github.io/lycee-premiere-spe/
+site_url: https://FiveZCourses.github.io/lycee-premiere-spe/
 
-docs_dir: docs
+docs_dir: lycee-premiere-spe/docs
 
 theme:
   name: material
