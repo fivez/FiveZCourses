@@ -7,7 +7,7 @@ Expliquer le principe de l'écho, déterminer une distance et calculer une port�
 ## Définitions
 
 !!! definition "Ultrason"
-    Un ultrason est une onde sonore dont la fréquence est supérieure à environ $20\\,\\text{kHz}$, limite supérieure usuelle de l'audition humaine.
+    Un ultrason est une onde sonore dont la fréquence est supérieure à environ $20\,\text{kHz}$, limite supérieure usuelle de l'audition humaine.
 
 !!! definition "Écho"
     Un écho est une onde réfléchie par un obstacle et reçue après propagation depuis la source jusqu'à l'obstacle puis retour vers le récepteur.
@@ -32,7 +32,7 @@ sequenceDiagram
     Note over C,O: Durée totale mesurée : Δt
 ```
 
-La distance parcourue par l'onde pendant la durée $\\Delta t$ est $2d$, car elle effectue un aller-retour :
+La distance parcourue par l'onde pendant la durée $\Delta t$ est $2d$, car elle effectue un aller-retour :
 $$
 2d=v\\Delta t
 $$
