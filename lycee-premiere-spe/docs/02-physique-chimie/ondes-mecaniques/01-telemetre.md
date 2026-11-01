@@ -13,7 +13,7 @@ Expliquer le principe de l'écho, déterminer une distance et calculer une port�
     Un écho est une onde réfléchie par un obstacle et reçue après propagation depuis la source jusqu'à l'obstacle puis retour vers le récepteur.
 
 !!! propriete "Temps de vol aller-retour"
-    Si l'obstacle est à la distance $d$, si la célérité de l'onde est $v$ et si la durée mesurée entre émission et réception est $\\Delta t$, alors :
+    Si l'obstacle est à la distance $d$, si la célérité de l'onde est $v$ et si la durée mesurée entre émission et réception est $\Delta t$, alors :
     $$
     \\boxed{d=\\frac{v\\Delta t}{2}}
     $$
@@ -41,11 +41,11 @@ $$
 d=\\frac{v\\Delta t}{2}
 $$
 
-Dans l'air, à température ambiante, on peut utiliser approximativement $v=340\\,\\text{m}\\,\\text{s}^{-1}$, sauf valeur différente imposée par l'énoncé.
+Dans l'air, à température ambiante, on peut utiliser approximativement $v=340\,\text{m}\,\text{s}^{-1}$, sauf valeur différente imposée par l'énoncé.
 
 ## Détermination de la portée maximale
 
-Si le capteur attend au plus une durée $\\Delta t_{\\max}$ avant de considérer qu'aucun écho n'est reçu, la portée maximale théorique liée à cette fenêtre temporelle est :
+Si le capteur attend au plus une durée $\Delta t_{\max}$ avant de considérer qu'aucun écho n'est reçu, la portée maximale théorique liée à cette fenêtre temporelle est :
 $$
 \\boxed{d_{\\max}=\\frac{v\\Delta t_{\\max}}{2}}
 $$
@@ -54,7 +54,7 @@ Cette limite temporelle ne garantit pas la détection réelle : l'écho peut êt
 
 ## Exemple corrigé
 
-Un capteur reçoit un écho $14{,}0\\,\\text{ms}$ après l'émission. On prend $v=343\\,\\text{m}\\,\\text{s}^{-1}$.
+Un capteur reçoit un écho $14{,}0\,\text{ms}$ après l'émission. On prend $v=343\,\text{m}\,\text{s}^{-1}$.
 
 Conversion :
 $$
@@ -74,7 +74,7 @@ $$
 
 1. Identifier si le temps fourni correspond à l'aller simple ou à l'aller-retour.
 2. Convertir les millisecondes en secondes.
-3. Écrire $2d=v\\Delta t$.
+3. Écrire $2d=v\Delta t$.
 4. Isoler $d$.
 5. Calculer avec les unités.
 6. Interpréter le résultat.
