@@ -1,0 +1,49 @@
+
+site_name: Cours de Première
+site_description: Cours et ressources pédagogiques de Première générale
+site_author: David
+
+# Remplacer par l'URL réelle après création du repository
+site_url: https://TON_COMPTE.github.io/lycee-premiere-spe/
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: fr
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.instant
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+extra_javascript:
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
