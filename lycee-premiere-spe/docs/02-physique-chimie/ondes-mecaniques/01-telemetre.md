@@ -41,7 +41,7 @@ $$
 d=\frac{v\Delta t}{2}
 $$
 
-Dans l'air, à température ambiante, on peut utiliser approximativement $v=340\,\text{m}\,\text{s}^{-1}$, sauf valeur différente imposée par l'énoncé.
+Dans l'air, à température ambiante, on peut utiliser approximativement $v=340\,\text{m}/\text{s}^{-1}$, sauf valeur différente imposée par l'énoncé.
 
 ## Détermination de la portée maximale
 
