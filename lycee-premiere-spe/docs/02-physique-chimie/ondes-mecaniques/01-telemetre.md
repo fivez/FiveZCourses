@@ -41,7 +41,7 @@ $$
 d=\frac{v\Delta t}{2}
 $$
 
-Dans l'air, à température ambiante, on peut utiliser approximativement $v=340\,\text{m}/\text{s}^{-1}$, sauf valeur différente imposée par l'énoncé.
+Dans l'air, à température ambiante, on peut utiliser approximativement $v=340\,\text{m}/\text{s}$, sauf valeur différente imposée par l'énoncé.
 
 ## Détermination de la portée maximale
 
@@ -54,7 +54,7 @@ Cette limite temporelle ne garantit pas la détection réelle : l'écho peut êt
 
 ## Exemple corrigé
 
-Un capteur reçoit un écho $14{,}0\,\text{ms}$ après l'émission. On prend $v=343\,\text{m}\,\text{s}^{-1}$.
+Un capteur reçoit un écho $14{,}0\,\text{ms}$ après l'émission. On prend $v=343\,\text{m}/\text{s}$.
 
 Conversion :
 $$

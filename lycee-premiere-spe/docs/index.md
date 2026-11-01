@@ -5,9 +5,7 @@ pour accompagner l'année de Première générale.
 
 ## Matières
 
-<!--
 - [Mathématiques](01-mathematiques/index.md)
--->
 - [Physique-Chimie](02-physique-chimie/index.md)
 <!--
 - [SVT](03-svt/index.md)
