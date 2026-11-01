@@ -10,11 +10,11 @@ Construire une gamme étalon, tracer une droite d'étalonnage, déterminer une c
     Méthode qui consiste à comparer une grandeur mesurée pour une solution inconnue à celles de solutions étalons de concentrations connues, afin de déterminer la concentration inconnue.
 
 !!! propriete "Choix de la longueur d'onde"
-    On choisit généralement $\\lambda_{\\max}$, longueur d'onde au maximum d'absorption. La mesure est alors sensible à la concentration et, près d'un maximum suffisamment large, peu sensible à une petite erreur de réglage de longueur d'onde.
+    On choisit généralement $\lambda_{\max}$, longueur d'onde au maximum d'absorption. La mesure est alors sensible à la concentration et, près d'un maximum suffisamment large, peu sensible à une petite erreur de réglage de longueur d'onde.
 
 ## Protocole complet
 
-### Étape 1 — Choisir $\\lambda_{\\max}$
+### Étape 1 — Choisir $\lambda_{\max}$
 
 Enregistrer le spectre d'absorption ou utiliser le spectre fourni. Identifier le maximum et régler le spectrophotomètre à cette longueur d'onde.
 
@@ -45,12 +45,12 @@ A=aC+b
 $$
 alors :
 $$
-\\boxed{C=\\frac{A-b}{a}}
+\boxed{C=\frac{A-b}{a}}
 $$
 
 Si l'ajustement passe par l'origine :
 $$
-\\boxed{C=\\frac{A}{a}}
+\boxed{C=\frac{A}{a}}
 $$
 
 ## Détermination graphique
@@ -65,7 +65,7 @@ C_iV_m=C_fV_f
 $$
 Le facteur de dilution est :
 $$
-F=\\frac{V_f}{V_m}
+F=\frac{V_f}{V_m}
 $$
 et :
 $$
@@ -78,23 +78,23 @@ où $C_i$ est la concentration avant dilution et $C_f$ celle de la solution dilu
 
 ## Exemple complet corrigé
 
-Une gamme étalon mesurée à $\\lambda_{\\max}$ conduit à :
+Une gamme étalon mesurée à $\lambda_{\max}$ conduit à :
 $$
-A=(1{,}65\\times10^4)C+0{,}012
+A=(1{,}65\times10^4)C+0{,}012
 $$
-avec $C$ en $\\text{mol}\\,\\text{L}^{-1}$. Une solution inconnue est diluée 5 fois avant mesure. Son absorbance vaut $0{,}342$.
+avec $C$ en $\text{mol}\,\text{L}^{-1}$. Une solution inconnue est diluée 5 fois avant mesure. Son absorbance vaut $0{,}342$.
 
 La concentration de la solution diluée vaut :
 $$
-C_d=\\frac{0{,}342-0{,}012}{1{,}65\\times10^4}
-=2{,}00\\times10^{-5}\\,\\text{mol}\\,\\text{L}^{-1}
+C_d=\frac{0{,}342-0{,}012}{1{,}65\times10^4}
+=2{,}00\times10^{-5}\,\text{mol}\,\text{L}^{-1}
 $$
 La solution initiale avait une concentration :
 $$
 C_i=5C_d
 $$
 $$
-\\boxed{C_i=1{,}00\\times10^{-4}\\,\\text{mol}\\,\\text{L}^{-1}}
+\boxed{C_i=1{,}00\times10^{-4}\,\text{mol}\,\text{L}^{-1}}
 $$
 
 ## Validation

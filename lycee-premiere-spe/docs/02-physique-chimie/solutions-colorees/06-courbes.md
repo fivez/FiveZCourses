@@ -7,12 +7,12 @@ Distinguer deux représentations expérimentales, interpréter leurs axes et exp
 ## A. Spectre d'absorption
 
 !!! definition "Spectre d'absorption"
-    Le spectre d'absorption représente l'absorbance $A$ en fonction de la longueur d'onde $\\lambda$, à concentration et conditions expérimentales fixées :
+    Le spectre d'absorption représente l'absorbance $A$ en fonction de la longueur d'onde $\lambda$, à concentration et conditions expérimentales fixées :
     $$
-    A=f(\\lambda)
+    A=f(\lambda)
     $$
 
-Le spectre permet de repérer les zones où l'espèce absorbe le plus. Le maximum d'absorption est repéré par $\\lambda_{\\max}$.
+Le spectre permet de repérer les zones où l'espèce absorbe le plus. Le maximum d'absorption est repéré par $\lambda_{\max}$.
 
 ```mermaid
 flowchart TD
@@ -35,16 +35,16 @@ Si Beer-Lambert est vérifiée, les points expérimentaux sont approximativement
 
 | Représentation | Abscisse | Ordonnée | Utilité |
 |---|---|---|---|
-| Spectre d'absorption | $\\lambda$ (nm) | $A$ | Choisir la longueur d'onde |
+| Spectre d'absorption | $\lambda$ (nm) | $A$ | Choisir la longueur d'onde |
 | Courbe d'étalonnage | $C$ | $A$ | Déterminer une concentration inconnue |
 
 ## Exemple corrigé
 
-Un spectre présente un maximum à $\\lambda=525\\,\\text{nm}$. Une série d'étalons mesurés à cette longueur d'onde donne une droite $A=2{,}4\\times10^4 C$.
+Un spectre présente un maximum à $\lambda=525\,\text{nm}$. Une série d'étalons mesurés à cette longueur d'onde donne une droite $A=2{,}4\times10^4 C$.
 
 **Question :** quelle longueur d'onde utiliser pour doser une solution inconnue de la même espèce ?
 
-**Correction :** utiliser $525\\,\\text{nm}$, correspondant au maximum d'absorption du spectre, puis établir ou exploiter la droite d'étalonnage mesurée à cette même longueur d'onde.
+**Correction :** utiliser $525\,\text{nm}$, correspondant au maximum d'absorption du spectre, puis établir ou exploiter la droite d'étalonnage mesurée à cette même longueur d'onde.
 
 !!! attention "Cohérence de la longueur d'onde"
     Les étalons et la solution inconnue doivent être mesurés à la même longueur d'onde. La pente de la droite dépend de la longueur d'onde.

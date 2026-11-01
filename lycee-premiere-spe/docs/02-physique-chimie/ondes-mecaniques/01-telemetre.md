@@ -15,7 +15,7 @@ Expliquer le principe de l'écho, déterminer une distance et calculer une port�
 !!! propriete "Temps de vol aller-retour"
     Si l'obstacle est à la distance $d$, si la célérité de l'onde est $v$ et si la durée mesurée entre émission et réception est $\Delta t$, alors :
     $$
-    \\boxed{d=\\frac{v\\Delta t}{2}}
+    \boxed{d=\frac{v\Delta t}{2}}
     $$
 
 ## Cours détaillé
@@ -34,11 +34,11 @@ sequenceDiagram
 
 La distance parcourue par l'onde pendant la durée $\Delta t$ est $2d$, car elle effectue un aller-retour :
 $$
-2d=v\\Delta t
+2d=v\Delta t
 $$
 D'où :
 $$
-d=\\frac{v\\Delta t}{2}
+d=\frac{v\Delta t}{2}
 $$
 
 Dans l'air, à température ambiante, on peut utiliser approximativement $v=340\,\text{m}\,\text{s}^{-1}$, sauf valeur différente imposée par l'énoncé.
@@ -47,7 +47,7 @@ Dans l'air, à température ambiante, on peut utiliser approximativement $v=340\
 
 Si le capteur attend au plus une durée $\Delta t_{\max}$ avant de considérer qu'aucun écho n'est reçu, la portée maximale théorique liée à cette fenêtre temporelle est :
 $$
-\\boxed{d_{\\max}=\\frac{v\\Delta t_{\\max}}{2}}
+\boxed{d_{\max}=\frac{v\Delta t_{\max}}{2}}
 $$
 
 Cette limite temporelle ne garantit pas la détection réelle : l'écho peut être trop faible, l'obstacle mal orienté ou la réflexion insuffisante.
@@ -58,16 +58,16 @@ Un capteur reçoit un écho $14{,}0\,\text{ms}$ après l'émission. On prend $v=
 
 Conversion :
 $$
-\\Delta t=14{,}0\\times10^{-3}\\,\\text{s}
+\Delta t=14{,}0\times10^{-3}\,\text{s}
 $$
 Calcul :
 $$
-d=\\frac{343\\times14{,}0\\times10^{-3}}{2}
-=2{,}401\\,\\text{m}
+d=\frac{343\times14{,}0\times10^{-3}}{2}
+=2{,}401\,\text{m}
 $$
 Compte tenu des données, on donne :
 $$
-\\boxed{d\\approx2{,}40\\,\\text{m}}
+\boxed{d\approx2{,}40\,\text{m}}
 $$
 
 ## Méthode à maîtriser

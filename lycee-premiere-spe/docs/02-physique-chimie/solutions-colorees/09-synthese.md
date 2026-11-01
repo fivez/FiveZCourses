@@ -4,7 +4,7 @@
 
 - **Absorption** : prélèvement d'énergie lumineuse par une espèce chimique.
 - **Absorbance** : grandeur sans unité caractérisant l'atténuation d'une radiation.
-- **Spectre d'absorption** : représentation de $A$ en fonction de $\\lambda$.
+- **Spectre d'absorption** : représentation de $A$ en fonction de $\lambda$.
 - **Courbe d'étalonnage** : représentation de $A$ en fonction de $C$ pour des étalons.
 - **Dosage par étalonnage** : détermination d'une concentration inconnue par comparaison à des solutions de concentrations connues.
 
@@ -13,8 +13,8 @@
 | Grandeur | Relation |
 |---|---|
 | Transmittance | $T=I/I_0$ |
-| Absorbance | $A=-\\log(T)=\\log(I_0/I)$ |
-| Beer-Lambert | $A=\\varepsilon\\ell C$ |
+| Absorbance | $A=-\log(T)=\log(I_0/I)$ |
+| Beer-Lambert | $A=\varepsilon\ell C$ |
 | Modèle linéaire | $A=aC+b$ |
 | Concentration | $C=(A-b)/a$ |
 | Facteur de dilution | $F=V_f/V_m$ |
@@ -33,7 +33,7 @@
 
 !!! attention "Les pièges à éviter"
     - oublier l'ordonnée à l'origine ;
-    - confondre spectre $A=f(\\lambda)$ et étalonnage $A=f(C)$ ;
+    - confondre spectre $A=f(\lambda)$ et étalonnage $A=f(C)$ ;
     - utiliser une droite obtenue à une autre longueur d'onde ;
     - oublier le facteur de dilution ;
     - extrapoler en dehors de la gamme ;
@@ -45,7 +45,7 @@
 - [ ] Je sais expliquer l'origine de la couleur.
 - [ ] Je sais calculer une absorbance à partir de $I_0$ et $I$.
 - [ ] Je sais décrire le spectrophotomètre et le rôle du blanc.
-- [ ] Je sais expliquer le choix de $\\lambda_{\\max}$.
+- [ ] Je sais expliquer le choix de $\lambda_{\max}$.
 - [ ] Je sais exploiter une droite affine.
 - [ ] Je sais corriger un facteur de dilution.
 - [ ] Je sais discuter la validité d'un dosage.

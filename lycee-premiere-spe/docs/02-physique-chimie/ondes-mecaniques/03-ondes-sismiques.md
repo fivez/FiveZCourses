@@ -41,38 +41,38 @@ flowchart TD
 
 On mesure :
 $$
-\\Delta t=t_S-t_P
+\Delta t=t_S-t_P
 $$
 
 Dans un modèle simplifié où les deux ondes parcourent la même distance $d$ à des célérités constantes :
 $$
-t_P=\\frac{d}{v_P}
-\\qquad
-t_S=\\frac{d}{v_S}
+t_P=\frac{d}{v_P}
+\qquad
+t_S=\frac{d}{v_S}
 $$
 En soustrayant :
 $$
-\\Delta t=d\\left(\\frac{1}{v_S}-\\frac{1}{v_P}\\right)
+\Delta t=d\left(\frac{1}{v_S}-\frac{1}{v_P}\right)
 $$
 D'où :
 $$
-\\boxed{d=\\frac{\\Delta t}{\\frac{1}{v_S}-\\frac{1}{v_P}}}
+\boxed{d=\frac{\Delta t}{\frac{1}{v_S}-\frac{1}{v_P}}}
 $$
 
 En pratique, les vitesses varient avec les matériaux et la profondeur. On utilise donc souvent des courbes de temps de parcours fournies dans les exercices.
 
 ## Exemple corrigé
 
-Une station mesure $t_S-t_P=35\\,\\text{s}$. On suppose $v_P=6{,}0\\,\\text{km}\\,\\text{s}^{-1}$ et $v_S=3{,}5\\,\\text{km}\\,\\text{s}^{-1}$ constantes.
+Une station mesure $t_S-t_P=35\,\text{s}$. On suppose $v_P=6{,}0\,\text{km}\,\text{s}^{-1}$ et $v_S=3{,}5\,\text{km}\,\text{s}^{-1}$ constantes.
 
 $$
-d=\\frac{35}{1/3{,}5-1/6{,}0}
+d=\frac{35}{1/3{,}5-1/6{,}0}
 $$
 $$
-d\\approx294\\,\\text{km}
+d\approx294\,\text{km}
 $$
 
-La distance estimée est d'environ $294\\,\\text{km}$ dans ce modèle simplifié.
+La distance estimée est d'environ $294\,\text{km}$ dans ce modèle simplifié.
 
 ## C. Triangulation
 

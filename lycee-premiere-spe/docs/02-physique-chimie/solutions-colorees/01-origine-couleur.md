@@ -21,7 +21,7 @@ Savoir qu'une lumière peut être décomposée en radiations de longueurs d'onde
 
 ## Cours détaillé
 
-La lumière blanche est composée de radiations de différentes longueurs d'onde. Le domaine visible est approximativement compris entre $400$ et $800\\,\\text{nm}$ (les limites exactes dépendent des conventions et de la sensibilité de l'œil).
+La lumière blanche est composée de radiations de différentes longueurs d'onde. Le domaine visible est approximativement compris entre $400$ et $800\,\text{nm}$ (les limites exactes dépendent des conventions et de la sensibilité de l'œil).
 
 Lorsqu'une lumière traverse une solution, une partie des radiations peut être absorbée par les espèces chimiques dissoutes. Les radiations qui ne sont pas absorbées sont transmises. La combinaison de ces radiations transmises détermine la couleur perçue.
 
