@@ -31,6 +31,7 @@ theme:
 
 plugins:
   - search
+  - print-site
 
 markdown_extensions:
   - admonition
@@ -40,10 +41,17 @@ markdown_extensions:
   - tables
   - pymdownx.details
   - pymdownx.superfences
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.highlight:
       anchor_linenums: true
+  - toc:
+      permalink: true
 
 extra_javascript:
+  - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js

@@ -1,0 +1,43 @@
+/* Encadrés pédagogiques distinctifs et lisibles */
+:root {
+  --definition: #176b87;
+  --property: #247a45;
+  --attention: #b45309;
+  --method: #6246a5;
+}
+.md-typeset .admonition.definition,
+.md-typeset details.definition {
+  border-color: var(--definition);
+}
+.md-typeset .definition > .admonition-title,
+.md-typeset .definition > summary {
+  background-color: color-mix(in srgb, var(--definition) 12%, transparent);
+}
+.md-typeset .admonition.propriete,
+.md-typeset details.propriete {
+  border-color: var(--property);
+}
+.md-typeset .propriete > .admonition-title,
+.md-typeset .propriete > summary {
+  background-color: color-mix(in srgb, var(--property) 12%, transparent);
+}
+.md-typeset .admonition.attention,
+.md-typeset details.attention {
+  border-color: var(--attention);
+}
+.md-typeset .attention > .admonition-title,
+.md-typeset .attention > summary {
+  background-color: color-mix(in srgb, var(--attention) 12%, transparent);
+}
+.md-typeset .admonition.methode,
+.md-typeset details.methode {
+  border-color: var(--method);
+}
+.md-typeset .methode > .admonition-title,
+.md-typeset .methode > summary {
+  background-color: color-mix(in srgb, var(--method) 12%, transparent);
+}
+.md-typeset .admonition,
+.md-typeset details {
+  border-left-width: 0.28rem;
+}

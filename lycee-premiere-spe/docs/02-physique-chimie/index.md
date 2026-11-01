@@ -1,18 +1,19 @@
-# Physique-Chimie
+# Physique-Chimie — Première spécialité
 
-Cours de Première – Enseignement de spécialité.
+Bienvenue dans ce cours structuré pour préparer les contrôles de Première spécialité.
 
-## Programme
+## Parcours conseillé
 
-### Constitution et transformations de la matière
+1. Étudier chaque section dans l'ordre.
+2. Recopier les définitions et propriétés encadrées.
+3. Refaire les démonstrations sans regarder le cours.
+4. Résoudre les exercices sans consulter les corrections.
+5. Terminer par la fiche de révision et un entraînement chronométré.
 
-- [Solutions colorées](01-solutions-colorees.md)
-- [Loi de Beer-Lambert](02-loi-de-beer-lambert.md)
+!!! warning "Exigence de rédaction"
+    Dans chaque calcul, écris les données, convertis les unités, donne la relation littérale, isole l'inconnue, effectue l'application numérique et termine par une phrase répondant précisément à la question.
 
-### Mouvement et interactions
+## Chapitres
 
-- [Mouvement et forces](03-mouvement-et-forces.md)
-
-### L'énergie : conversions et transferts
-
-- [Énergie](04-energie.md)
+- [Solutions colorées et dosage par étalonnage](solutions-colorees/index.md)
+- [Ondes mécaniques périodiques](ondes-mecaniques/index.md)
