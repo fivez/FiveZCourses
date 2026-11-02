@@ -1,4 +1,4 @@
-# Bienvenue dans les cours de Première !
+# Bienvenue dans les cours de FiveZ Courses !
 
 Ce site regroupe les cours, méthodes, exercices et corrigés
 pour accompagner l'année de Première générale.

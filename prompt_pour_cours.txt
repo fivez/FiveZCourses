@@ -21,20 +21,9 @@ Assure toi d'avoir donc, pour chaque cours :
 - Les exercices mettent en avant les pièges, les points d'attention et les cas particuliers en les expliquant
 - A la fin, tu expliques comment comprendre pourquoi un résultat est vrai, savoir quand l'utiliser et savoir le démontrer.
 
-Cours :
+Je veux que tu produises tous les chapitres dans des fichiers markdown distincts et que tu me les rendes disponibles en téléchargement dans un fichier zip, avec les sous-arborescences nécessaires.
 
-Second degré :
-- Fonctions polynômes du second degré
-1. Définition (fonction polynômes, coefficients du polynomes)
-2. Formés canoniques (propriété de la forme canonique, démonstration)
-- Résolution de l'équation de forme ax²+bx+c=0 (solution et factorisation en fonction de delta)
-- Signes du polynômes du 2d degré x->ax²+bx+c avec a, b, c 3 réels tel que a≠0 (tableaux de signes en fonction de delta, propriété de x²=a, x²<=a, x²>=a avec a>0)
-- Propriété des racines : somme et produit (propriété de la somme et du produit des racines d'un polynômes du 2nd degré)
-- Équation avec paramètre
-- étude d'une fonction polynômes du 2d degré (étude des sens de variations d'un polynômes du 2d degré de forme ax²+bx+c en fonction de a, courbe représentztif du polynome de 2d degré et ses caractéristiques)
-- Compléments sur les polynômes
-1. Fonction de x^(n)-1 et x^(n)-a^(n) où n appartient aux entiers positif, n>=2 et x appartient aux nombres réels et a appartient aux nombres réels
-2. Polynômes du 2d degré quelconque (définition de monôme de degré n, définition de polynôme à coefficient réels de la variable réelle, propriété d'addition et de multiplication de degré de deux polynômes
+Cours :
 
 Fonction valeur absolue :
 - Rappel : parité d'une fonction (définition de la parité d'une fonction, propriété de la courbe représentatif d'une fonction en fonction de sa partié)
