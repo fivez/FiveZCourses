@@ -21,25 +21,22 @@ Assure toi d'avoir donc, pour chaque cours :
 - Les exercices mettent en avant les pièges, les points d'attention et les cas particuliers en les expliquant
 - A la fin, tu expliques comment comprendre pourquoi un résultat est vrai, savoir quand l'utiliser et savoir le démontrer.
 
-Je veux que tu produises tous les chapitres dans des fichiers markdown distincts et que tu me les rendes disponibles en téléchargement dans un fichier zip, avec les sous-arborescences nécessaires.
+Je veux que tu produises tous les chapitres dans des fichiers markdown distincts à intégrer dans mon site actuel, et que tu me les rendes disponibles en téléchargement dans un fichier zip, avec les sous-arborescences nécessaires.
+Ne génère pas toute la partie zensical et autres.
+
+Travaille étape par étape, chapitre par chapitre, en plusieurs messages si nécessaires. Chaque cours, chaque chapitre et section doit être parfaitement détaillée.
 
 Cours :
 
-Fonction valeur absolue :
-- Rappel : parité d'une fonction (définition de la parité d'une fonction, propriété de la courbe représentatif d'une fonction en fonction de sa partié)
-- fonction valeur absolue 
-1. Rappels (définition d'une valeur absolue, propriété de |x|=0 et |x|=|y|, propriété de |-x|=|x|, |xy|=|x|×|y|, |1/y|=1/|y|,|x/y|=|x|/|y|, |x^(n)|=(|x|)^(n), |x+y|<=|x|+|y|
-2. Étude de la fonction valeur absolue (parité, sens de variation, courbe réprésentative, d'une fonction valeur absolue)
-
-Opération sur les fonctions : 
-- Somme des fonctions (définition de la somme de deux fonction)
-- produit d'une fonction (définition du produit de deux fonctions)
-- Inverse et quotient (définition de l'inverse d'une fonction, définition du quotient de deux fonctions)
-- composé de fonctions (définition de composé de deux fonctions)
-- g(x)=f(x-a) avec a appartenant aux réels (proprieté de la translation des croûtes réprésentative des fonction g et f, citées précédemment)
-
-Trigonométrie 
-- Cercle tirgonométrique
-1. definition
-2. Correspondance entre la droite des réels et le cercle trigonométrique (propriété de la correspondance entre la droite des réels et le cercle trigonométrique avec delta, la tangente en ce cercle, représentant l'ensemble des réels, définition. De la mesure en radians de l'angle orienté)
-3. Radians (définition)
+- Solutions colorées et dosage par étalonnage 
+1. D'où vient une solution colorée ?
+2. Qu'est-ce que l'absorbance A(lambda) et comment la mesure-t-on ?
+3. Comment fonctionne un spectrophotomètre mesurant l'absorbance d'une solution ?
+4. Quels sont les facteurs influençant l'absorbance d'une solution ?
+5. Qu'est-ce que la loi de Beer-Lambert ?
+6. Quelles sont les deux types de courbes obtenues à l'aide d'un spectrophotometre ? a) spectre d'absorption de l'espèce chimique b) courbe d'étalonnage
+7. Comment réaliser un dosage par spectrophotomètrie ? a) choix de la longueur d'onde de travail : lambda max b) les trois étapes pour la construction de la droite d'étalonnage : A=f(C) c) Détermination de la concentration inconnue avec résolution analytique par le calcul et résolution graphique par lecture graphique
+- Ondes mécaniques périodiques : 
+1. La physique du télémètre ultrasonore : comment fonctionne ce dispositif et comment déterminer la valeur de la portée maximale du capteur ?
+2. Les ondes mécaniques périodique a) double périodicité d'une onde (temporelle et spatiale) b) lien entre la période spatiale lambda et période temporelle T c) modélisation mathématique d'un signal périodique 
+3. Les ondes sismiques :  déterminer l'épicentre et technique de triangulation
