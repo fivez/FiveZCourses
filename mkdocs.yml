@@ -53,5 +53,5 @@ markdown_extensions:
       permalink: true
 
 extra_javascript:
-  - docs/javascripts/mathjax.js
+  - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
