@@ -15,10 +15,4 @@ Bienvenue dans ce cours structuré pour préparer les contrôles de Première sp
 
 ## Chapitres
 
-- [Fonctions polynômes du second degré : définition et forme canonique](second-degre/01-definition-forme-canonique.md)
-- [Équation du second degré : discriminant, solutions, factorisation](second-degre/02-equation-discriminant.md)
-- [Signe d'un trinôme et inéquations du second degré](second-degre/03-signe-et-inequations.md)
-- [Somme et produit des racines d'un trinôme](second-degre/04-somme-produit-racines.md)
-- [Équations du second degré avec paramètre](second-degre/05-equations-parametre.md)
-- [Étude d'une fonction trinôme : variations et parabole](second-degre/06-etude-fonction-parabole.md)
-- [Compléments sur les polynômes](second-degre/07-complements-polynomes.md)
+- [Chapitre 1 : Organisation du globe](chapitre-1-organisme-du-globe/index.md)
