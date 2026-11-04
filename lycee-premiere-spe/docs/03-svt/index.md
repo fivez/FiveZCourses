@@ -16,3 +16,4 @@ Bienvenue dans ce cours structuré pour préparer les contrôles de Première sp
 ## Chapitres
 
 - [Chapitre 1 : Organisation du globe](chapitre-1-organisme-du-globe/index.md)
+- [Chapitre 2 : De la mobilité horizontale à la « tectonique des plaques »](chapitre-2-tectonique-des-plaques/index.md)
